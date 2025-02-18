@@ -6,7 +6,7 @@ import {ShopContext} from '../context/shopContext'
 import Title from '../components/title'
 import ProductItem from '../components/productItem'
 import Offer from '../components/offer'
-import OurPolicy from '../components/ourpolicy';
+import OurPolicy from '../components/ourPolicy';
  const Collections = () => {
   const {products,search ,showSearch}=useContext(ShopContext);
    const [showFilter,setShowFilter]=useState(false);
