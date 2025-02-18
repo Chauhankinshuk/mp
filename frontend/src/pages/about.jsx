@@ -1,6 +1,6 @@
 import React from 'react'
 import deliver from '../assets/deliver.webp';
-import OurPolicy from '../components/ourpolicy';
+import OurPolicy from '../components/ourPolicy';
 import Offer from '../components/offer';
 import Title from '../components/title'
  const About = () => {
