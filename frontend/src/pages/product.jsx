@@ -4,7 +4,7 @@ import { ShopContext } from '../context/shopContext';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faStar ,faStarHalfStroke } from '@fortawesome/free-solid-svg-icons';
 import SimilarProducts from '../components/similarProducts';
-import OurPolicy from '../components/ourpolicy';
+import OurPolicy from '../components/ourPolicy';
 import Offer from '../components/offer';
 
 const product = () => {
